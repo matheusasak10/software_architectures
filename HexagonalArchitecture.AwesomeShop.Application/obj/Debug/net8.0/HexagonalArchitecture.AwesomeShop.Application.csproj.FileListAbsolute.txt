@@ -1,0 +1,15 @@
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.deps.json
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.pdb
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.pdb
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.csproj.AssemblyReference.cache
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.AssemblyInfoInputs.cache
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.AssemblyInfo.cs
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.csproj.CoreCompileInputs.cache
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\Hexagona.DFE24D83.Up2Date
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\refint\HexagonalArchitecture.AwesomeShop.Application.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Application.pdb
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Application\obj\Debug\net8.0\ref\HexagonalArchitecture.AwesomeShop.Application.dll

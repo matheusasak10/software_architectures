@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}|FactoryMethod\\FactoryMethod.csproj|c:\\dev\\aspnetcore\\softwarearchitectures\\factorymethod\\infrastructure\\payments\\paymentservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\infrastructure\\payments\\paymentservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}|FactoryMethod\\FactoryMethod.csproj|c:\\dev\\aspnetcore\\softwarearchitectures\\factorymethod\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFAAD9-95DD-489F-94CF-5F9415F164D3}|Strategy\\Strategy.csproj|c:\\dev\\aspnetcore\\softwarearchitectures\\strategy\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFAAD9-95DD-489F-94CF-5F9415F164D3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentServiceFactory.cs",
+              "DocumentMoniker": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\FactoryMethod\\Infrastructure\\Payments\\PaymentServiceFactory.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Infrastructure\\Payments\\PaymentServiceFactory.cs",
+              "ToolTip": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\FactoryMethod\\Infrastructure\\Payments\\PaymentServiceFactory.cs",
+              "RelativeToolTip": "FactoryMethod\\Infrastructure\\Payments\\PaymentServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:10:38.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\Strategy\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Strategy\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\Strategy\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Strategy\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:48:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\FactoryMethod\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\FactoryMethod\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FactoryMethod\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:43:48.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

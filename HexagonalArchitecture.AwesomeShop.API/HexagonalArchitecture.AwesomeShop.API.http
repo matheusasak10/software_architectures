@@ -1,0 +1,29 @@
+@Host = http://localhost:5215
+###
+GET {{Host}}/weatherforecast/
+content-Type: application/json
+
+###
+GET {{Host}}/api/Orders
+content-Type: application/json
+
+###
+POST {{Host}}/api/Orders
+content-Type: application/json
+{
+  "orderCode": "12345",
+  "customerName": "Matheus",
+  "customerEmail": "matheus@hotgsd.com",
+  "items": [
+    {
+      "productId": 2,
+      "productName": "Milho",
+      "unitPrice": 30,
+      "quantity": 4
+    }
+  ]
+}
+
+###
+GET {{Host}}/api/Orders/0
+content-Type: application/json

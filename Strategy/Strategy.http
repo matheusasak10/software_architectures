@@ -1,0 +1,45 @@
+@Host = http://localhost:5145
+###
+GET {{Host}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{Host}}/api/orders
+content-Type: application/json
+{
+  "customer": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "fullName": "Matheus Amaral",
+    "email": "matheus@hotmail.com",
+    "document": "12345678"
+  },
+  "items": [
+    {
+      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "quantity": 2,
+      "price": 3
+    }
+  ],
+  "deliveryAddress": {
+    "street": "rua 2",
+    "number": "55",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "zipCode": "13448-444"
+  },
+  "paymentAddress": {
+    "street": "rua 2",
+    "number": "55",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "zipCode": "13448-444"
+  },
+  "paymentInfo": {
+    "paymentMethod": 1,
+    "cardNumber": "4444-4444-4444-4444",
+    "fullName": "Matheus Amaral",
+    "expirationDate": "06/30",
+    "cvv": "555"
+  },
+  "isInternational": true
+}

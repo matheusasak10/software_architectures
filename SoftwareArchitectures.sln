@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HexagonalArchicture", "HexagonalArchicture", "{1808DD5E-6253-4121-A703-C2D0B3146808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonalArchitecture.AwesomeShop.Application", "HexagonalArchitecture.AwesomeShop.Application\HexagonalArchitecture.AwesomeShop.Application.csproj", "{6B10A73F-9D57-4D1B-B0B2-8DF12300D760}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonalArchitecture.AwesomeShop.Domain", "HexagonalArchitecture.AwesomeShop.Domain\HexagonalArchitecture.AwesomeShop.Domain.csproj", "{7A1AC14C-991F-415B-875A-A53D6F756CAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonalArchitecture.AwesomeShop.Infrastructure", "HexagonalArchitecture.AwesomeShop.Infrastructure\HexagonalArchitecture.AwesomeShop.Infrastructure.csproj", "{9A191F0D-5CCE-44D7-9690-150681DE6F22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonalArchitecture.AwesomeShop.API", "HexagonalArchitecture.AwesomeShop.API\HexagonalArchitecture.AwesomeShop.API.csproj", "{74BFB162-D317-44B7-8815-03B5D62C249D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{F9118F4E-CA35-46DE-B22D-ED7FEA37B346}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{FEF00AFF-A789-479B-8908-896158009C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{CEE76CA6-5202-4CC4-8514-6B24A8BA1BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{21EFAAD9-95DD-489F-94CF-5F9415F164D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B10A73F-9D57-4D1B-B0B2-8DF12300D760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B10A73F-9D57-4D1B-B0B2-8DF12300D760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B10A73F-9D57-4D1B-B0B2-8DF12300D760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B10A73F-9D57-4D1B-B0B2-8DF12300D760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1AC14C-991F-415B-875A-A53D6F756CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1AC14C-991F-415B-875A-A53D6F756CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1AC14C-991F-415B-875A-A53D6F756CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1AC14C-991F-415B-875A-A53D6F756CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A191F0D-5CCE-44D7-9690-150681DE6F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A191F0D-5CCE-44D7-9690-150681DE6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A191F0D-5CCE-44D7-9690-150681DE6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A191F0D-5CCE-44D7-9690-150681DE6F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BFB162-D317-44B7-8815-03B5D62C249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BFB162-D317-44B7-8815-03B5D62C249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BFB162-D317-44B7-8815-03B5D62C249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BFB162-D317-44B7-8815-03B5D62C249D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EFAAD9-95DD-489F-94CF-5F9415F164D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EFAAD9-95DD-489F-94CF-5F9415F164D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EFAAD9-95DD-489F-94CF-5F9415F164D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EFAAD9-95DD-489F-94CF-5F9415F164D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B10A73F-9D57-4D1B-B0B2-8DF12300D760} = {1808DD5E-6253-4121-A703-C2D0B3146808}
+		{7A1AC14C-991F-415B-875A-A53D6F756CAD} = {1808DD5E-6253-4121-A703-C2D0B3146808}
+		{9A191F0D-5CCE-44D7-9690-150681DE6F22} = {1808DD5E-6253-4121-A703-C2D0B3146808}
+		{74BFB162-D317-44B7-8815-03B5D62C249D} = {1808DD5E-6253-4121-A703-C2D0B3146808}
+		{FEF00AFF-A789-479B-8908-896158009C80} = {F9118F4E-CA35-46DE-B22D-ED7FEA37B346}
+		{E0D9F715-9A16-4C72-A1F8-3489CB0FBFCC} = {FEF00AFF-A789-479B-8908-896158009C80}
+		{CEE76CA6-5202-4CC4-8514-6B24A8BA1BEA} = {F9118F4E-CA35-46DE-B22D-ED7FEA37B346}
+		{21EFAAD9-95DD-489F-94CF-5F9415F164D3} = {CEE76CA6-5202-4CC4-8514-6B24A8BA1BEA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F202A188-6A41-4E8E-AA28-54A20464E244}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lT6SaL7iLeg=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\AspNetCore\\SoftwareArchitectures\\HexagonalArchitecture.AwesomeShop.Infrastructure\\HexagonalArchitecture.AwesomeShop.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

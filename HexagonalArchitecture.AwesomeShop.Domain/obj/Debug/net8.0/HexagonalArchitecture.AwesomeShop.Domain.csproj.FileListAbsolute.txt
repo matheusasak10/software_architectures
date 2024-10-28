@@ -1,0 +1,11 @@
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.deps.json
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\bin\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.pdb
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.AssemblyInfoInputs.cache
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.AssemblyInfo.cs
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\refint\HexagonalArchitecture.AwesomeShop.Domain.dll
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\HexagonalArchitecture.AwesomeShop.Domain.pdb
+C:\Dev\AspNetCore\SoftwareArchitectures\HexagonalArchitecture.AwesomeShop.Domain\obj\Debug\net8.0\ref\HexagonalArchitecture.AwesomeShop.Domain.dll
